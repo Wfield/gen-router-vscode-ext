@@ -4,6 +4,10 @@
 	"description": "",
 	"version": "0.0.1",
 	"publisher": "xiaolong-li",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Wfield/gen-router-vscode-ext"
+	},
 	"engines": {
 		"vscode": "^1.44.0"
 	},
